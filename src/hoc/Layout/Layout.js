@@ -29,6 +29,7 @@ class Layout extends Component {
         </main>
       </Aux>
     )
+
   }
 }
 
